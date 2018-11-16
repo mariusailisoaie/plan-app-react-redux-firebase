@@ -6,8 +6,8 @@ class SignUp extends Component {
   state = {
     email: '',
     password: '',
-    firstname: '',
-    lastname: ''
+    firstName: '',
+    lastName: ''
   }
 
   handleSubmit = (e) => {
